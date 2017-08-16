@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="ofsec"
+          fetch="https://github.com/offensive-security/" />
+
+  <project path="KALI/nethunter-devices" name="nethunter-devices" remote="ofsec" revision="master" />
+  <project path="KALI/kali-nethunter" name="kali-nethunter" remote="ofsec" revision="master" />
+
+</manifest>
